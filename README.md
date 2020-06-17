@@ -1,0 +1,2 @@
+# dataprocessingforpdf
+PDFからテキストデータを抽出して機械学習等に適用するためのツール群
