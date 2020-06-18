@@ -14,4 +14,4 @@ Adobe indesignで作成したPDFから、テキストデータを抽出します
 環境構築の手間を省くため、上記の機能について、Google Colaboratory用のスクリプトも公開しています。
 
 
-[Google Colaboratory用リンク](https://colab.research.google.com/github/ndl-lab-staff/dataprocessingforpdf/blob/master/dataProcessingForIndesign_colab.ipynb)
+[Google Colaboratory用リンク](https://colab.research.google.com/github/ndl-lab/dataprocessingforpdf/blob/master/dataProcessingForIndesign_colab.ipynb)
