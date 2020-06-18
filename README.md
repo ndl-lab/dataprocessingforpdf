@@ -3,7 +3,7 @@ PDFからテキストデータを抽出して機械学習等に適用するた�
 文字情報付きPDFからテキストデータを抽出して、機械学習等に転用するためのツール群です。 一番上のセルから、ctrlキーとEnterキーを同時押しして実行してください。
 
 ## dataProcessingForIndesign.ipynb
-Adobe indesignで作成したPDFから、テキストデータを抽出します。 以下のように必要なパッケージのインストールが必要です。 
+Adobe InDesignで作成したPDFから、テキストデータを抽出します。 以下のように必要なパッケージのインストールが必要です。 
 
 ```apt-get install poppler-utils```
 
