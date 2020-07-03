@@ -1,5 +1,6 @@
 # dataprocessingforpdf
-PDFからテキストデータを抽出して機械学習等に適用するためのツール群
+PDFからテキストデータを抽出して機械学習等に適用するためのツール群です。
+
 文字情報付きPDFからテキストデータを抽出して、機械学習等に転用するためのツール群です。 一番上のセルから、ctrlキーとEnterキーを同時押しして実行してください。
 
 ## dataProcessingForIndesign.ipynb
